@@ -80,9 +80,9 @@ namespace MenuDemo
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(101, 38);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(61, 25);
+            this.label2.Size = new System.Drawing.Size(52, 25);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Menu";
+            this.label2.Text = "菜单";
             // 
             // menuButton
             // 
