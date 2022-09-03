@@ -16,6 +16,7 @@ namespace MenuDemo
         {
             InitializeComponent();
         }
+        //定义折叠判断
         bool siderbarExpand = true;
         bool homeExpand = true;
         private void siderbarTimer_Tick(object sender, EventArgs e)
